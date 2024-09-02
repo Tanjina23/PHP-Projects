@@ -1,0 +1,22 @@
+#main-title {
+  text-align: center;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  margin: 0;
+}
+
+.box-1 h2 {
+  float: left;
+  padding-bottom: 20px;
+}
+
+.box-1 button {
+  float: right;
+}
+
+.container {
+  margin-top: 50px;
+}
